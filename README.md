@@ -2,7 +2,7 @@
 
 <h4>About me.</h4>
 
-My name is Alexandr Zaitsev, I am a person who works with data.<br
+My name is Alexandr Zaitsev, I am a person who works with data.<br>
 My LinkedIn profile can be seen here: 
 <a href="linkedin.com/in/alexandr-zaitsev-6906161a2">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)</a><br><br>
 
